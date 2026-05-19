@@ -118,9 +118,9 @@ The initial model uses equal weighting across the seven dimensions. Equal weight
 
 BENJI and BUIDL score highest because they are closest to institution-grade fund structures backed by short-duration government securities, cash, and repurchase agreements. Ondo scores lower because OUSG and USDY use different legal structures and token mechanics. Maple and Centrifuge score lower not because they are weaker platforms, but because their products move into credit and structured-asset risk, where borrower quality, collateral, liquidity, and issuer-specific terms matter more.
 
-## 7. Listing and Due Diligence Checklist
+## 7. RWA Product Due Diligence Framework
 
-If an exchange, asset manager, or platform wants to list or support an RWA product, it should review:
+For exchanges, asset managers, and digital asset platforms evaluating tokenized RWA products, diligence should focus on whether the token provides a transparent, enforceable, and operationally reliable claim on the underlying asset or cash flows. A practical review should cover:
 
 1. Asset composition and concentration
 2. Legal claim and investor rights
@@ -133,7 +133,7 @@ If an exchange, asset manager, or platform wants to list or support an RWA produ
 9. Secondary market liquidity, market makers, and approved counterparties
 10. Reporting frequency, NAV methodology, proof of reserves, and asset disclosure
 
-The key diligence question is not only whether the asset is high quality, but whether the token holder has a clear, enforceable, and redeemable claim on that asset or its cash flows.
+The key diligence question is therefore not only whether the underlying asset is high quality, but whether the token holder has a clearly documented claim, a reliable redemption path, and adequate protection across legal, operational, compliance, and technical layers.
 
 ## 8. Conclusion
 
