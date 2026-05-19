@@ -8,11 +8,11 @@ As of May 14, 2026, RWA.xyz reported $31.63 billion in distributed tokenized RWA
 
 The key conclusion is that tokenized Treasuries are not simply "Treasuries onchain." They are hybrid financial products that combine traditional fund, custody, transfer-agent, compliance, and redemption infrastructure with blockchain-based settlement and distribution. The main analytical edge is therefore not token price prediction, but understanding legal claims, asset backing, redemption mechanics, custody, compliance, and yield sources.
 
-## 2. Why RWA Is a Strong Web3 Entry Point for Traditional Finance Students
+## 2. Why Tokenized Treasuries Matter
 
-RWA is a strong Web3 entry point for students with traditional finance backgrounds because it uses concepts already familiar in structured finance and asset management: fund shares, SPVs, custody, transfer agents, waterfalls, credit risk, redemption mechanics, and compliance.
+Tokenized Treasuries matter because they connect familiar cash-management and fixed-income products with blockchain-based settlement, transfer, and distribution infrastructure. Unlike speculative crypto assets, tokenized Treasury products can be analyzed using traditional finance concepts such as fund shares, SPVs, custody, transfer agents, waterfalls, credit risk, redemption mechanics, and compliance.
 
-Compared with meme coins or purely crypto-native protocols, RWA analysis rewards product and market-structure judgment. A traditional finance analyst can apply fixed income, ABS, private credit, and fund diligence skills to questions such as:
+This makes the category useful for evaluating how traditional financial products change when ownership records, transfer restrictions, and settlement processes move onchain. The key questions are not only technical, but also legal, operational, and market-structural:
 
 - What does the token legally represent?
 - Who owns or controls the underlying assets?
@@ -20,7 +20,7 @@ Compared with meme coins or purely crypto-native protocols, RWA analysis rewards
 - Does yield come from Treasury bills, repo, lending spreads, or incentives?
 - Are transfers restricted by KYC, whitelists, or jurisdictional rules?
 
-Tokenized Treasuries are especially useful as an anchor case because they are simple enough to compare with traditional cash-management products, but complex enough to reveal the hybrid risks created when legal entities, custodians, smart contracts, and onchain transfer systems interact.
+Tokenized Treasuries are therefore a useful anchor case for RWA analysis: they are simple enough to compare with traditional cash-management products, but complex enough to reveal the hybrid risks created when legal entities, custodians, smart contracts, and onchain transfer systems interact.
 
 ## 3. Market Overview
 
