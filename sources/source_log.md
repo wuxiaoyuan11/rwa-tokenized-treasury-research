@@ -1,10 +1,11 @@
 # Source Log
 
-Use this file to track each source and what it supports.
+This log summarizes the public sources used for market sizing, protocol comparison, product-structure analysis, and risk-framework design.
 
 | Source | Link | Date Accessed | What It Supports | Notes |
 |---|---|---|---|---|
-| RWA.xyz Tokenized U.S. Treasuries | https://app.rwa.xyz/treasuries | 2026-05-13 | Tokenized Treasury market size, top issuers, AUM, holders, APY | Data page showed tokenized U.S. Treasuries total value of about $10.93B and top platforms including Securitize, Ondo, Circle, Franklin Templeton, Libeara, WisdomTree, and Superstate. |
+| RWA.xyz Market Overview | https://app.rwa.xyz/ | 2026-05-14 | Distributed tokenized RWA value, asset holders, stablecoin value, and market-level category context | Used for the reported $31.63B distributed tokenized RWA value. |
+| RWA.xyz Tokenized U.S. Treasuries | https://app.rwa.xyz/treasuries | 2026-05-14 | Tokenized Treasury market size, top products, chain distribution, holders, and APY | Used for the reported $15.36B distributed tokenized U.S. Treasury value, product ranking, and chain distribution. |
 | RWA.xyz OUSG | https://app.rwa.xyz/assets/OUSG | 2026-05-13 | OUSG AUM, product description, investor type, underlying exposure | Describes OUSG as on-chain exposure to U.S. Treasuries through institutional money market funds, primarily including BlackRock BUIDL and other fund vehicles. |
 | Ondo OUSG Redemption Docs | https://docs.ondo.finance/qualified-access-products/ousg/redeeming | 2026-05-13 | OUSG redemption mechanics | Supports instant USDC redemption when available and next-business-day processing for standard redemptions submitted before cutoff. |
 | Ondo USDY Basics | https://docs.ondo.finance/general-access-products/usdy/basics | 2026-05-13 | USDY structure, investor access, asset backing, token mechanics | USDY is described as a tokenized note for qualifying non-U.S. investors, with accumulating and rebasing versions. |

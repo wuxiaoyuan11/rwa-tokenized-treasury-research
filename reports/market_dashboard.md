@@ -1,7 +1,7 @@
 # Market Dashboard
 
 Data date: 2026-05-14  
-Primary source: RWA.xyz screenshots collected by the researcher
+Primary source: RWA.xyz Market Overview and Tokenized U.S. Treasuries dashboard, accessed May 14, 2026
 
 ## 1. Market Size
 
